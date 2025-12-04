@@ -1,0 +1,27 @@
+[project]
+name = "crs-ai-orchestration"
+version = "0.1.0"
+description = "An agentic AI based CRS orchestration platform"
+readme = "README.md"
+requires-python = ">=3.12.6"
+dependencies = [
+    "faiss-cpu>=1.11.0.post1",
+    "mcp[cli]>=1.12.1",
+    "numpy>=2.3.2",
+    "openai-agents>=0.2.3",
+    "pandas>=2.3.1",
+    "sentence-transformers>=5.0.0",
+    "streamlit>=1.48.1",
+]
+
+[dependency-groups]
+dev = [
+    "isort>=6.0.1",
+    "ruff>=0.12.4",
+]
+
+[tool.ruff]
+line-length = 88
+
+[tool.ruff.format]
+quote-style = "double"

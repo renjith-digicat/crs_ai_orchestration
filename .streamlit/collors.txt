@@ -1,0 +1,47 @@
+# color themes that may be copied over into config.toml
+
+# Dark theme
+primaryColor="rgb(225, 184, 20)"
+backgroundColor="rgb(5, 5, 5)"
+secondaryBackgroundColor="rgb(50, 50, 50)"
+textColor="rgb(255, 255, 255)"
+font="sans serif"
+
+
+
+# Light Blue theme
+primaryColor="rgb(225, 184, 20)"
+backgroundColor="rgb(173, 216, 230)"
+secondaryBackgroundColor="rgb(255, 255, 255)"
+textColor="rgb(5, 5, 5)"
+font="sans serif"
+
+# DSCH color theme
+primaryColor="rgb(225, 184, 20)"
+backgroundColor="rgb(246, 205, 69)"
+secondaryBackgroundColor="rgb(255, 255, 255)"
+textColor="rgb(5, 5, 5)"
+font="sans serif"
+
+# Dark Blue  theme
+primaryColor="rgb(225, 184, 20)"
+backgroundColor="rgb(65, 105, 225)"
+secondaryBackgroundColor="rgb(255, 255, 255)"
+textColor="rgb(5, 5, 5)"
+font="sans serif"
+
+# DC Color Theme
+primaryColor="rgb(225, 184, 20)"
+backgroundColor="rgb(255, 255, 255)"
+secondaryBackgroundColor="rgb(235, 235, 235)"
+textColor="rgb(138, 21, 56)"
+font="sans serif"
+
+#\definecolor{dc-red}{RGB}{224,1,77}
+#\definecolor{dc-magenta}{RGB}{138,21,56}
+
+
+# color tryouts
+# secondaryBackgroundColor="rgb(246, 205, 69)"
+# secondaryBackgroundColor="rgb(5, 5, 5)"
+# backgroundColor="rgb(246, 205, 69)"

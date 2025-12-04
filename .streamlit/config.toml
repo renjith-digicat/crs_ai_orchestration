@@ -1,0 +1,8 @@
+[theme]
+
+# DC Color Theme
+primaryColor="rgb(225, 184, 20)"
+backgroundColor="rgb(255, 255, 255)"
+secondaryBackgroundColor="rgb(235, 235, 235)"
+textColor="rgb(138, 21, 56)"
+font="sans serif"
